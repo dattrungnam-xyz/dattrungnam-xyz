@@ -16,7 +16,7 @@
 <br>
 
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=dattrungnam-xyz&show_icons=true&hide_border=true)
 
 <br>
 
@@ -35,4 +35,3 @@
 
 <br><br><br><br>
 
-**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
