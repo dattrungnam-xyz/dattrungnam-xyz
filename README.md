@@ -11,6 +11,11 @@
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=dattrungnam-xyz&show_icons=true&hide_border=true)
 
 <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dattrungnam-xyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
