@@ -33,11 +33,12 @@
 </p>
 <br>
 
-
-  <a href="https://www.instagram.com/_dat.trung.nam_/">
-    <img align="left" alt="Dat | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/datxyzj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dat" height="30" width="40" /></a>
+<a href="https://instagram.com/_dat.trung.nam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dattrungnam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dattrungnam-xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dattrungnam" height="30" width="40" /></a>
+</p>
 
 <br><br><br>
 
